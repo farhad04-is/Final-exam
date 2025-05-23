@@ -1,0 +1,23 @@
+.sect2{
+    width: 100%;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.metin{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    width: 50%;
+    height: 100%;
+}
+.sect2_image{
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/fl2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+
+}
